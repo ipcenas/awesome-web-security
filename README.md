@@ -115,6 +115,7 @@ If you enjoy this awesome list and would like to support it, check out my [Patre
   - [XSS](#practices-xss)
   - [ModSecurity / OWASP ModSecurity Core Rule Set](#practices-modsecurity)
 - [Community](#community)
+- [Books](#books)
 - [Miscellaneous](#miscellaneous)
 
 ## Digests
@@ -848,6 +849,10 @@ If you enjoy this awesome list and would like to support it, check out my [Patre
 
 - [Reddit](https://www.reddit.com/r/websecurity/)
 - [Stack Overflow](http://stackoverflow.com/questions/tagged/security)
+
+## Books
+
+- [The Art of Network Penetration Testing](https://www.manning.com/books/the-art-of-network-penetration-testing) - This book is a hands-on guide to running your own penetration test on an enterprise network.
 
 ## Miscellaneous
 
